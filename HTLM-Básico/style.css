@@ -1,0 +1,48 @@
+#title, .subtitulo, .titulo{
+    color: #505050;
+    margin-top: 0px;
+} 
+
+body{
+    background: #f7f7f7;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto; 
+}
+
+.post{
+    background: #fff;
+    padding: 15px;
+    border: 3px solid #000;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.subtitulo{
+    font-size: 16px;
+    font-style: italic;
+    margin: 0px;
+    margin-bottom: 15px;
+}
+
+.post_content{
+    margin: 0;
+    margin-bottom: 15px;
+   
+}
+
+.img_post{
+    margin-bottom: 15px;
+    border-radius: 50%;
+    border: 1px solid #000;
+
+}
+
+.contacts_list{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.contacts_list li a{
+    text-decoration: none;
+}
